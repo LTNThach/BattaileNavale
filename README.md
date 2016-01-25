@@ -5,9 +5,7 @@ La bataille navale, appelée aussi touché-coulé, est un jeu de société dans 
 
 ##II. Règle du jeu
 	1. Grille de jeu
-		La grille de jeu est numérotée de 1 à 10 horizontalement et de A à J verticalement.
-		Conventionnellement, les joueurs placent des pions blancs sur la grille lorsque les coordonnées n'ont pas touché de
-		bateau adverse, et rouge lorsqu'une touche a été faite.
+		La grille de jeu est numérotée de 1 à 10 horizontalement et de A à J verticalement. Conventionnellement, les joueurs placent des pions blancs sur la grille lorsque les coordonnées n'ont pas touché de bateau adverse, et rouge lorsqu'une touche a été faite.
 		
 	2. Liste des navires
 		Chaque joueur possède les mêmes navires, dont le nombre et le type dépendent des règles du jeu choisies.
